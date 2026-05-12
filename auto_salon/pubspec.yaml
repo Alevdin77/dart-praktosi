@@ -1,0 +1,10 @@
+name: auto_salon
+description: CLI система для автосалона
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  sqlite3: ^2.0.0
+  path: ^1.9.0
