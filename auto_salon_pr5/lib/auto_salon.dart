@@ -1,0 +1,11 @@
+export 'src/domain/models/car.dart';
+export 'src/domain/models/customer.dart';
+export 'src/domain/models/sale.dart';
+export 'src/domain/validators/text_validator.dart';
+export 'src/domain/validators/number_validator.dart';
+export 'src/data/database.dart';
+export 'src/data/repositories/car_repository.dart';
+export 'src/data/repositories/customer_repository.dart';
+export 'src/data/repositories/sale_repository.dart';
+export 'src/cli/menu.dart';
+export 'src/cli/input_helper.dart';
